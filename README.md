@@ -18,7 +18,7 @@ This blocklist removes websites that contain AI-generated images or AI-generated
 
 ## One-Click Import (Chrome / Chromium)
 
-[https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/Bokan96/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/list_uBlacklist.txt](https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/Bokan96/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/list_uBlacklist.txt)
+[https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt](https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt)
 
 ---
 
@@ -32,7 +32,7 @@ This blocklist removes websites that contain AI-generated images or AI-generated
 6. Paste this URL into the **URL** field:
 
 ```
-https://raw.githubusercontent.com/Bokan96/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/list_uBlacklist.txt
+https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt
 ```
 
 7. Click **Add**.
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/Bokan96/uBlockOrigin-HUGE-AI-Blocklist/refs/he
 8. Paste the URL:
 
 ```
-https://raw.githubusercontent.com/Bokan96/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/list_uBlacklist.txt
+https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt
 ```
 
 9. Click **Add** and set update interval.
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/Bokan96/uBlockOrigin-HUGE-AI-Blocklist/refs/he
 6. Paste:
 
 ```
-https://raw.githubusercontent.com/Bokan96/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/list_uBlacklist.txt
+https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt
 ```
 
 7. Click **Add** and set update interval.
