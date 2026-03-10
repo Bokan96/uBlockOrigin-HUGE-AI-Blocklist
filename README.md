@@ -18,7 +18,7 @@ This blocklist removes websites that contain AI-generated images or AI-generated
 
 ## One-Click Import (Chrome / Chromium)
 
-[https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt](https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt)
+[https://iorate.github.io/ublacklist/subscribe?name=Main+AI+Blocklist&url=https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt](https://iorate.github.io/ublacklist/subscribe?name=AI+Generated&url=https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/heads/main/AI-Slop-list.txt)
 
 ---
 
@@ -28,7 +28,7 @@ This blocklist removes websites that contain AI-generated images or AI-generated
 2. Enable desired search engines via **Other search engines / SERPINFO** if needed.
 3. Scroll to **Subscription**.
 4. Click **Add a subscription**.
-5. Enter a name (e.g. `Main AI blocklist`).
+5. Enter a name (e.g. `AI Generated`).
 6. Paste this URL into the **URL** field:
 
 ```
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/Bokan96/uBlocklist-HUGE-AI-Blocklist/refs/head
 4. Open **Extension Settings**.
 5. Scroll to **Subscription**.
 6. Click **Add a subscription**.
-7. Enter a name (e.g. `Main AI blocklist`).
+7. Enter a name (e.g. `AI Generated`).
 8. Paste the URL:
 
 ```
